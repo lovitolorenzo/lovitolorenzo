@@ -14,5 +14,3 @@ I'm Lorenzo Lovito and I'm a **Full Stack & Blockchain developer**.
 ### ✉️ Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lovito-92a801177/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovitolorenzojob@gmail.com)
-
-￼
