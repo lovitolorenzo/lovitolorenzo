@@ -1,9 +1,9 @@
 I'm Lorenzo Lovito and I'm a **Full Stack & Blockchain developer**.
 
 ### 👷🏻 Experience:
-- Currently employed at [WCApes](https://wcapes.com) as Full Stack doing blockchain integration as well. 
+- Currently employed at [WCApes](https://wcapes.com) as a Full Stack developer, doing blockchain integration and smart contract coding. 
 - Worked as a freelancer for a few months
-- Worked at [FolksFinance](https://folks.finance) for one and a half years as Full Stack, actively performing blockchain integration on our applications.
+- Worked at [FolksFinance](https://folks.finance) for one and a half years as a Full Stack, actively performing blockchain integration on our applications.
 
 ### 👨‍💻 About me:
 - 🏋🏻‍♂️ Gym addicted - `Mens sana in corpore sano`
