@@ -5,7 +5,7 @@ I'm Lorenzo Lovito and I'm a **Full Stack & Blockchain developer**.
 - Worked as a freelancer for a few months
 - Worked at [FolksFinance](https://folks.finance) for one and a half years as a Full Stack, actively performing blockchain integration on our applications
 
-### 👨‍💻 About me:
+### 🙋🏻‍♂️ About me:
 - 🏋🏻‍♂️ Gym addicted - `Mens sana in corpore sano`
 - 👨🏻‍🍳 Pretty good at cooking
 - 📚 I'm currently reading Il principe, by Niccolò Machiavelli
