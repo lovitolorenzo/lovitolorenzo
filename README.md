@@ -1,16 +1,18 @@
-### Hi there 👋
+I'm Lorenzo Lovito and I'm a **Full Stack & Blockchain developer**.
 
-<!--
-**lovitolorenzo/lovitolorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👷🏻 Experience:
+- Currently employed at [WCApes](https://wcapes.com) as Full Stack with blockchain integration as well. 
+- Worked as a freelancer for a few months
+- Worked at [FolksFinance](https://folks.finance) for one and a half years as Full Stack and also integrating our apps with blockchain.
 
-Here are some ideas to get you started:
+### 👨‍💻 About me:
+- 🏋🏻‍♂️ Gym addicted - `Mens sana in corpore sano`
+- 👨🏻‍🍳 Pretty good at cooking
+- 📚 I'm currently reading Clean Code, by Robert Cecil Martin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ✉️ Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lovito-92a801177/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovitolorenzojob@gmail.com)
+
+￼
