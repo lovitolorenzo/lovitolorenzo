@@ -8,7 +8,7 @@ I'm Lorenzo Lovito and I'm a **Full Stack & Blockchain developer**.
 ### 🙋🏻‍♂️ About me:
 - 🏋🏻‍♂️ Gym addicted - `Mens sana in corpore sano`
 - 👨🏻‍🍳 Pretty good at cooking
-- 📚 I'm currently reading Il principe, by Niccolò Machiavelli
+- 📚 I'm currently reading Jonh Milton's Lost Paradise
 
 
 ### ✉️ Connect with me
