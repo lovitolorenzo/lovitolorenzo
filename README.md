@@ -1,4 +1,4 @@
-I'm Lorenzo Lovito and I'm a **Full Stack & Blockchain developer**.
+I'm Lorenzo Lovito and I'm a **Full Stack developer**.
 
 ### 👷🏻 Experience:
 - Currently employed at [Akkodis](https://www.akkodis.com/it) as a Software Engineer, doing also blockchain integration and smart contract coding
